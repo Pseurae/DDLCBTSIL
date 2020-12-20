@@ -1,0 +1,15 @@
+log.txt
+traceback.txt
+errors.txt
+game/*.rpa
+game/*.rpyb
+game/*.rpyc
+game/*.chr
+game/firstrun
+game/saves
+game/cache
+game/python-packages
+.vscode
+characters
+tmp
+project.json
